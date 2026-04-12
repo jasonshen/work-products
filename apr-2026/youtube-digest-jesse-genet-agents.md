@@ -1,3 +1,10 @@
+# 5 OpenClaw agents run my home, finances, and code | Jesse Genet
+
+**Channel:** How I AI | **Published:** 2026-02-25 | **Duration:** 49:28 | **Views at time of digest:** 40,064
+**Video:** https://youtu.be/96Vl8s3EQhk
+
+---
+
 1.  **Summary**
     Jesse Genet, a mother of four, manages her homeschool, finances, and personal projects using five distinct OpenClaw AI agents. She frames her life in two phases: "before claw and after claw." Initially drawn to the tool's ability to integrate with her Obsidian "second brain," she overcame technical hurdles to delegate the "heavy lifting" she couldn't manage alone. Each agent, from homeschool-focused Sylvie to coding-specialist Cole, is treated like a new employee, granted progressive trust and a distinct "soul" and mission. This setup, supported by multiple physical Mac minis for security and Slack for (imperfect) communication, grants her transformative flexibility. She can now be deeply present with her children while pursuing ambitious projects in stolen moments, fundamentally shifting from feeling she must choose between family and ambition to believing she "actually can do it all."
 
